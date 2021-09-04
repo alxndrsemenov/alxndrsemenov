@@ -1,6 +1,0 @@
-#task1
-c = 0
-b = 0
-value = 10
-c = value + 5
-print(c);
